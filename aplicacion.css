@@ -1,0 +1,120 @@
+h1 {
+	font-size: 50px;
+	font-family: Algerian;
+	color: white;
+	display: flex;
+}
+body {
+	background-image: url("https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSwTixdIr7x_7f_nogAB3KAHfo7jEiwOEUMhuiiVkOCSDQJmRkTaw");
+	background-size: 100%;
+	background-repeat: no-repeat;
+}
+#todito {
+	display: flex;
+}
+#todote {
+	display: flex;
+	flex-wrap: wrap;
+	justify-content: flex-start;
+	width: 60%;
+}
+#todo {
+	display: flex;
+	flex-wrap: wrap;
+	width: 40%
+	justify-content: flex-end;
+}
+#principal {
+ 	height: 500px;
+	width: 500px;
+	justify-content: flex-start;
+	border: 3px solid red;
+}
+#Nike {
+ 	height: 95px;
+	width: 95px;
+	background-repeat: no-repeat;
+	border: solid red;
+	background-size: 100%;
+	background-image: url("./aplicacion/ima1.jpg");
+}
+#Adidas {
+	height: 95px;
+	width: 95px;
+	background-repeat: no-repeat;
+	border: solid red;
+	background-size: 100% 100%;
+	background-image: url("./aplicacion/ima2.png")
+}
+#Gucci {
+	height: 95px;
+	width: 95px;
+	background-repeat: no-repeat;
+	border: solid red;
+	background-size: 100% 100%;
+	background-image: url("./aplicacion/ima3.jpg")
+}
+#Puma {
+	height: 95px;
+	width: 95px;
+	background-repeat: no-repeat;
+	border: solid red;
+	background-size: 100% 100%;
+	background-image: url("./aplicacion/ima4.jpg")
+}
+#Diesel {
+	height: 95px;
+	width: 95px;
+	background-repeat: no-repeat;
+	border: solid red;
+	background-size: 100% 100%;
+	background-image: url("./aplicacion/ima5.png")
+}
+#Lacoste {
+	height: 95px;
+	width: 95px;
+	background-repeat: no-repeat;
+	border: solid red;
+	background-size: 100% 100%;
+	background-image: url("./aplicacion/ima6.jpg")
+}
+#Hugo {
+	height: 95px;
+	width: 95px;
+	background-repeat: no-repeat;
+	border: solid red;
+	background-size: 100% 100%;
+	background-image: url("./aplicacion/ima7.png")
+}
+#Tommy {
+	height: 95px;
+	width: 95px;
+	background-repeat: no-repeat;
+	border: solid red;
+	background-size: 100% 100%;
+	background-image: url("./aplicacion/ima8.png")
+}
+#Quest {
+	height: 95px;
+	width: 95px;
+	background-repeat: no-repeat;
+	border: solid red;
+	background-size: 100% 100%;
+	background-image: url("./aplicacion/ima9.jpg")
+}
+#Polo {
+	height: 95px;
+	width: 95px;
+	background-repeat: no-repeat;
+	border: solid red;
+	background-size: 100% 100%;
+	background-image: url("./aplicacion/ima10.png")
+}
+
+#contento{
+	height: 500px;
+	width: 215px;
+	display: flex;
+	flex-wrap: wrap;
+	justify-content: flex-end;
+}
